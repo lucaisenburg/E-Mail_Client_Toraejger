@@ -7,10 +7,10 @@ Python-Projekt: Bundesliga-Torschützen
 E-Mail-Client:
 Python greift auf das angegebene Gmail Konto zu, in dem er sich mit meinen Daten, die ich oben definiert habe, einloggt.
 Durch das Integrieren von MIMEmultipart ist es möglich, die E-Mail in mehrere Parts aufzuteilen.
-So habe ich über der Liste mittels einer HTML-Formatierung einen Text & Betreff verfasst, der über der Tballe der Toptorjäger steht.
+So habe ich über der Liste mittels einer HTML-Formatierung einen Text & Betreff verfasst, der über der Tabelle der Toptorjäger steht.
 
 Webscraper:
-Auf der Website https://www.kicker.de/bundesliga/torjaeger/2020-21/10 habe ich mittels eines Webscrapers die Torjägerliste herausgeschnitten und in meine E-Mail eingefügt.
+Auf der Website https://www.kicker.de/bundesliga/torjaeger/2020-21/ habe ich mittels eines Webscrapers die Torjägerliste herausgeschnitten und in meine E-Mail eingefügt.
 Mithilfe von BeautifulSoup parse ich mir den Teil der Webseite, die in einer E-Mail verschickt wird. Dieser wird ausgelesen und in Tabellenform in der E-Mail eingefügt.
 
 Trigger:
