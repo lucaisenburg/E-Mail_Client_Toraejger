@@ -20,3 +20,4 @@ Ist ein Dokument vorhanden, wird der Name mit dem aktuellen Namen, der auf kicke
 Ist dieser gleich, wird keine E-Mail verschickt und das Programm gibt eine kurze Meldung zurück.
 Ist der Name unterschiedlich, wird das E-Mail-Client-Programm gestartet und die E-Mail mit der aktuellen Liste verschickt. 
 
+Used Website: kicker.com
